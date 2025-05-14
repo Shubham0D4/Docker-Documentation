@@ -1,0 +1,4 @@
+services:
+  testapp:
+    image: 'testapp:01'
+    container_name: "test_app"
